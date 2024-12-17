@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/804978370050916362/1303630606885716059/Untitled3268_20241106153614.webp?ex=6731ba1c&is=6730689c&hm=5dc70b29db593f3b84b54c69932e5966713582747a7b0a956565fcc231e5ddce&=&format=webp&width=1025&height=144">
  <source media="(prefers-color-scheme: light)" srcset="(https://media.discordapp.net/attachments/804978370050916362/1303630606885716059/Untitled3268_20241106153614.webp?ex=6731ba1c&is=6730689c&hm=5dc70b29db593f3b84b54c69932e5966713582747a7b0a956565fcc231e5ddce&=&format=webp&width=1025&height=144)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="me core" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
  <p align="center"><picture>
